@@ -1,0 +1,24 @@
+.jumboDisplay{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    background: lightblue;
+  
+}
+
+.jumboDisplay #currentDate{
+    font-size: large;
+    color:red;
+}
+
+.jumboDisplay #currentTime{
+    font-size: large;
+    color: red;
+}
+
+.saveBtn{
+    color: blue; 
+    background-color: aliceblue
+}
