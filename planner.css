@@ -28,19 +28,18 @@
     background-color: aliceblue;
     border-style: solid;
     border-color: black;
-    border-bottom-right-radius: 20px;
-    border-top-left-radius: 20px;
+ 
     
 }
 
 .past{
-    background-color: gray;
+    background: gray;
 }
 
 .present{
-    background-color: green;
+    background: rgb(48, 165, 48);
 }
 
 .future{
-    background-color: blue;
+    background: lightblue;
 }
