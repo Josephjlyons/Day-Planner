@@ -1,3 +1,4 @@
+$("document").ready(function(){
 let appointmentTime = "";
 let appointmentDate = "";
 let currentDate = document.getElementById("currentDate");
@@ -44,13 +45,14 @@ function pastPresFuture() {
 
 
 // Saving notes to local enabling save button
-$(".saveBtn").on("click", function(){
+$(".saveBtn").on("click", function storeAppoint(){
+    
     let hour = $(this).attr("data-hour");
-    console.log(hour);
     let textarea = $("#" + hour);
-    console.log(textarea.val());
+  let appointArr = textarea.val();
 
 
-localStorage.setItem(hour, JSON.stringify(textarea)
-)});
-// populat appointment in appropiate area
+localStorage.setItem(hour,JSON.stringify(appointArr))
+});
+
+});
