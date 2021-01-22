@@ -4,6 +4,7 @@
     font-style: italic;
     font-weight: bold;
     background: lightblue;
+    border-radius: ;
   
 }
 
@@ -28,10 +29,12 @@
     background-color: aliceblue;
     border-style: solid;
     border-color: black;
- 
-    
+    border-radius: 20px;
 }
 
+.appointmentNotes{
+    background:red;
+}
 .past{
     background: gray;
 }
@@ -42,4 +45,8 @@
 
 .future{
     background: lightblue;
+}
+.container{
+    padding: 5px;
+
 }
