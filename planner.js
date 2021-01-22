@@ -35,7 +35,7 @@ $("document").ready(function () {
             }
 
         }
-    }
+    };
 // Shows saved localstorage and shows on page 
 function renderAppoint() {
     var hr9 = localStorage.getItem("9am");
