@@ -8,12 +8,12 @@ This is a basic application that can be used to save appointments in a calendar 
 
 ### Code Used
 This application includes the following:
-HTML
-CSS
-JS
-JQuery
-Bootstrap
-Font Awesome
+* HTML
+* CSS
+* JS
+* JQuery
+* Bootstrap
+* Font Awesome
 
 # Contact
 josephjlyons90@gmail.com
