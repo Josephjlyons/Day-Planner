@@ -16,6 +16,7 @@ This application includes the following:
 * JQuery
 * Bootstrap
 * Font Awesome
+* Dayjs
 
 # Contact
 josephjlyons90@gmail.com
