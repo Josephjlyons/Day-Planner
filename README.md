@@ -5,7 +5,7 @@ This is a basic application that can be used to save appointments in a calendar 
 
 ##Project Image
 
-![image of project] https://github.com/Josephjlyons/Day-Planner/blob/main/plannerImg.png?raw=true
+![image of project](https://github.com/Josephjlyons/Day-Planner/blob/main/plannerImg.png?raw=true)
 
 ##Application Link
 
@@ -25,7 +25,7 @@ This application includes the following:
 # Contact
 Email: josephjlyons90@gmail.com
 
-[LinkedIn] (linkedin.com/in/joseph-lyons-0a2630200)
+[LinkedIn](linkedin.com/in/joseph-lyons-0a2630200)
 
 
 
