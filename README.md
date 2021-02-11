@@ -3,13 +3,13 @@
 ## Summary
 This is a basic application that can be used to save appointments in a calendar format by clicking the calendar checkmark area. Users can enter in events that will be saved and displayed when the page loads. The application displays standard business hours (9am-5pm) and depending on what the current time is a color coding method was used to show past, present and future time slots. 
 
-##Project Image
+## Project Image
 
 ![image of project](https://github.com/Josephjlyons/Day-Planner/blob/main/plannerImg.png?raw=true)
 
-##Application Link
+## Application Link
 
-https://josephjlyons.github.io/Day-Planner/
+[Deployed Application](https://josephjlyons.github.io/Day-Planner/)
 
 
 ### Code Used
@@ -23,7 +23,7 @@ This application includes the following:
 * Dayjs
 
 # Contact
-Email: josephjlyons90@gmail.com
+[Email](josephjlyons90@gmail.com)
 
 [LinkedIn](linkedin.com/in/joseph-lyons-0a2630200)
 
