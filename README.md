@@ -23,7 +23,11 @@ This application includes the following:
 * Dayjs
 
 # Contact
-josephjlyons90@gmail.com
+Email: josephjlyons90@gmail.com
+
+[LinkedIn] (linkedin.com/in/joseph-lyons-0a2630200)
+
+
 
 # License 
 Copyright (c) [2021] [Joseph Lyons]
