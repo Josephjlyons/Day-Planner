@@ -23,9 +23,8 @@ This application includes the following:
 * Dayjs
 
 # Contact
-[Email](josephjlyons90@gmail.com)
-
-[LinkedIn](linkedin.com/in/joseph-lyons-0a2630200)
+* Email: josephjlyons90@gmail.com
+* LinkedIn: www.linkedin.com/in/joseph-lyons-0a2630200/
 
 
 
